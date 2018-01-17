@@ -1,5 +1,4 @@
 # hello-world
-First career repository
 
 Hello World!
 
